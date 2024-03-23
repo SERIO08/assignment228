@@ -1,6 +1,6 @@
 package q1;
 
-//R/BCA-22-241
+//R/BCA-22-228
 
 
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 package q2;
 
-//R/BCA-22-241
+//R/BCA-22-228
 
 public class Dog {
 	private String name;
